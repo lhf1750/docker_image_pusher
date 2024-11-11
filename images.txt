@@ -1,1 +1,2 @@
-gitlab/gitlab-ce:last
+gitlab-ce
+python:alpine3.19
