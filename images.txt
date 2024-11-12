@@ -1,1 +1,1 @@
-jenkinszh/jenkins-zh:2.396
+jenkinszh/jenkins-zh:2.329
